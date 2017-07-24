@@ -1,1 +1,3 @@
 This is a sample branch 
+
+This was added in the EditBranch
